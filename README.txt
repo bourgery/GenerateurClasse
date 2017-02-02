@@ -1,0 +1,1 @@
+Générateur de classe C++ avec QT 
